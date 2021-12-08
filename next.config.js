@@ -1,3 +1,3 @@
 module.exports = {
-    basePath: '/clock'
+    basePath: '/gradient-clock'
 }
