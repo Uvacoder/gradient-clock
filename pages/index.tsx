@@ -13,7 +13,7 @@ export default function IndexPage() {
     return (
         <AnimateHeaderContainer>
             <Gradient />
-            <Header title="Gradient Clock">
+            <Header title="Gradients Clock">
                 <FullscreenButton />
                 <Menu options={options} dispatch={dispatch} />
             </Header>
